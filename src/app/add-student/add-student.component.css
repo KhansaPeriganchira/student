@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Rye', cursive;
+}
+ .mt-2{
+    font-family: 'Kalam', cursive;
+ }
+ .image img{
+    transition:3s;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    box-shadow: 4px 8px 12px  rgba(10, 13, 236, 0.993);
+ }
+ .image img:hover{
+
+    transition:2s;
+    transform:scale(1.1);
+
+}

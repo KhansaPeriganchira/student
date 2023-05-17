@@ -1,0 +1,114 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "stream": "computer science",
+      "phone": "8547156356",
+      "photo": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=839 ",
+      "batch": "2016",
+      "year": "final year",
+      "groupId": "2"
+    },
+    {
+      "id": "3",
+      "name": "Anu",
+      "email": "anu@gmail.com",
+      "stream": "civil ",
+      "phone": "8547567323",
+      "photo": "https://www2.deloitte.com/content/dam/insights/us/portraits/tanya-telford/TTelford.jpg   ",
+      "batch": "2018",
+      "year": "first year",
+      "groupId": "1"
+    },
+    {
+      "id": "4",
+      "name": "Navas",
+      "email": "navas@gmail.com",
+      "stream": "Eletronics",
+      "phone": "8547233867",
+      "photo": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "batch": "2011",
+      "year": "third year",
+      "groupId": "3"
+    },
+    {
+      "id": "6",
+      "name": "fenza",
+      "photo": "https://pixinvent.com/demo/vuexy-bootstrap-laravel-admin-template-old/demo-4/images/profile/user-uploads/user-04.jpg",
+      "email": "fenza@gmail.com",
+      "stream": "Electrical",
+      "phone": "8547233867",
+      "batch": "2017",
+      "year": "first year",
+      "groupId": "2"
+    },
+    {
+      "id": "7",
+      "name": "treesa boban",
+      "photo": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "email": "treesa@gmail.com",
+      "stream": "Architecture",
+      "phone": "8547286306",
+      "batch": "2005",
+      "year": "final year",
+      "groupId": "3"
+    },
+    {
+      "id": "1",
+      "name": "amal",
+      "photo": "https://xsgames.co/randomusers/assets/avatars/male/46.jpg",
+      "email": "amal@gmail.com",
+      "stream": "computer science",
+      "phone": "4567123423",
+      "batch": "2012",
+      "year": "second year",
+      "groupId": "2"
+    },
+    {
+      "id": "12",
+      "name": "Kumar",
+      "photo": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "email": "kumar@gmail.com",
+      "stream": "Electronics",
+      "phone": "6786452312",
+      "batch": "2015",
+      "year": "second year",
+      "groupId": "2"
+    },
+    {
+      "id": "8",
+      "name": "Aysha lemsha",
+      "photo": "https://images.unsplash.com/photo-1615022702095-ff2c036f3360?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuJTIwZ2lybHxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "email": "ayshu@gmail.com",
+      "stream": "computer science",
+      "phone": "2345678909",
+      "batch": "2015",
+      "year": "first year",
+      "groupId": "1"
+    }
+  ],
+  "group": [
+    {
+      "id": "1",
+      "name": "CSE"
+    },
+    {
+      "id": "2",
+      "name": "ECE"
+    },
+    {
+      "id": "3",
+      "name": "EEE"
+    },
+    {
+      "id": "4",
+      "name": "CE"
+    },
+    {
+      "id": "5",
+      "name": "MECH"
+    }
+  ]
+}
